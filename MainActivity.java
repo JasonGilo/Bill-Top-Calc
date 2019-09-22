@@ -1,4 +1,3 @@
-package com.gethirednow.tip;
 
 import android.content.pm.ActivityInfo;
 import android.support.v7.app.AppCompatActivity;
